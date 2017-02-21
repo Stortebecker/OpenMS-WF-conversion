@@ -7,16 +7,16 @@ Please keep the file up to date as far as it concerns other team members, so we 
 ## Misc
 WF | Test data (with location on server) | Conversion v2.1 | Conversion KNIME | Conversion Galaxy
 :-- | :--: | :--: | :--: | :--:
-GenerateShuffledDatabase_20150926 | |||
+GenerateShuffledDatabase_20150926 |D:\data\proteome-databases\uniprot-human-Nov26-2013-reference-reviewed-canonical-without-isoforms.fasta |tested @eppinglen |tested @eppinglen |
 QualityControl_20151104 | |||
 
 ## Sciex, TripleTOF 6600
 WF | Test data with location on N: | Conversion v2.1 | Conversion KNIME | Conversion Galaxy
 :-- | :--: | :--: | :--: | :--:
-LabelFree_SciexTripleTOF_CentroidMode_20170111 | |||
-PeptideQuantification_SciexTripleTOF6600_centroided_20170109 | |||
-PeptideFeatureDetection_SciexTripleTOF6600_20170107 | |||
-SILACLys8Arg10_PeptideQuantification_SciexTripleTOF6600_20170107 ||||
+LabelFree_SciexTripleTOF_CentroidMode_20170111 |D:\data\Lars\20160121_LabelFree_SciexTripleTOF6600_Yasset\data\Yasset Perez-Riverol - 140702_0002_DC2ac_6600_G2_DDA1-DC2ac_6600_G2_DDA1.mzML,D:\data\proteome-databases-OpenMS\uniprot-koli-k12-nov24-2011-plus-shuffled.fasta |tested @eppinglen|tested @eppinglen|
+PeptideQuantification_SciexTripleTOF6600_centroided_20170109 |D:\data\Lars\20160121_LabelFree_SciexTripleTOF6600_Yasset\data\Yasset Perez-Riverol - 140702_0002_DC2ac_6600_G2_DDA1-DC2ac_6600_G2_DDA1.mzML|tested @eppinglen|tested @eppinglen|
+PeptideFeatureDetection_SciexTripleTOF6600_20170107 |D:\data\Lars\2015\20150709_FixedRatio_TripleTOF_Joern\data\SILAC_1_2000_3000.mzML|tested @eppinglen|tested @eppinglen|
+SILACLys8Arg10_PeptideQuantification_SciexTripleTOF6600_20170107 |D:\data\Lars\2015\20150709_FixedRatio_TripleTOF_Joern\peptide_id\TOPPAS_out\004-PeakPickerHiRes-out\SILAC_2.mzML|tested @eppinglen|tested @eppinglen|
 
 ## Thermo, LTQ Orbitrap XL
 WF | Test data with location on N: | Conversion v2.1 | Conversion KNIME | Conversion Galaxy
