@@ -27,13 +27,13 @@ protein_quantification_Leu3SILAC_LTQOrbiXL_20160627 | N:/data-NAS/BM/BM40-48_Mar
 ## Thermo, Orbitrap Velos
 WF | Test data with location on N: | Conversion v2.1 | Conversion KNIME | Conversion Galaxy
 :-- | :--: | :--: | :--: | :--:
-iTRAQ_LTQOrbitrapVelos_20151116 ||||
+iTRAQ_LTQOrbitrapVelos_20151116 |D:\data\Lars\2015\20151111_BookChapterRSC\iTRAQ\PXD001265\|tested @eppinglen |tested @eppinglen |
 QualityControl_20151106 ||||
 
 ## Thermo, Q Exactive
 WF | Test data with location on N: | Conversion v2.1 | Conversion KNIME | Conversion Galaxy
 :-- | :--: | :--: | :--: | :--:
-LabelFree_QExactive_20151015 | | tested @eppinglen ||
+LabelFree_QExactive_20151015 |N:\UK\UK181-209_Urinary_biomarkers_individual_samples_labelfree | tested @eppinglen |tested @eppinglen|
 LabelFreeMultipleFractions_QExactive_20151016  | | WIP @Stortebecker ||
 SILACArg6Lys6Labelling_QExactive_20151126 ||||
 SILAC_Lys4Arg6_Lys8Arg10_QExactive20160627 |||| 
