@@ -35,9 +35,9 @@ WF | Test data with location on N: | Conversion v2.1 | Conversion KNIME | Conver
 :-- | :--: | :--: | :--: | :--:
 LabelFree_QExactive_20151015 |N:\UK\UK181-209_Urinary_biomarkers_individual_samples_labelfree | tested @eppinglen |tested @eppinglen|
 LabelFreeMultipleFractions_QExactive_20151016  | | WIP @Stortebecker ||
-SILACArg6Lys6Labelling_QExactive_20151126 |N:/ST/ST895_908/ST897.mzML|tested @eppinglen|tested @eppinglen (diff:sp|Q9NQP4|PFD4_HUMAN
+SILACArg6Lys6Labelling_QExactive_20151126 |N:/ST/ST895_908/ST897.mzML|tested @eppinglen|tested @eppinglen (diff:sp Q9NQP4PFD4_HUMAN)
  |
-SILAC_Lys4Arg6_Lys8Arg10_QExactive20160627 |||| 
+SILAC_Lys4Arg6_Lys8Arg10_QExactive20160627 ||||
 DoubleDimethylLabelling_QExactive_20150707 ||||
 TripleDimethylLabelling_QExactive_20151115 ||||
 TAILS_QExactive_20160609 ||||
