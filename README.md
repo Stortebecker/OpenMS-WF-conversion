@@ -22,7 +22,7 @@ SILACLys8Arg10_PeptideQuantification_SciexTripleTOF6600_20170107 |D:\data\Lars\2
 WF | Test data with location on N: | Conversion v2.1 | Conversion KNIME | Conversion Galaxy
 :-- | :--: | :--: | :--: | :--:
 LabelFree_LTQOrbitrapXL_20170126 | D:/data/Lars/2015/20151111_BookChapterRSC/label_free/strepto_human_mix/data | tested @eppinglen ||
-protein_quantification_Leu3SILAC_LTQOrbiXL_20160627 | N:/data-NAS/BM/BM40-48_Marius-Hefe | tested @eppinglen ||
+protein_quantification_Leu3SILAC_LTQOrbiXL_20160627 | N:/BM/BM40-48_Marius-Hefe | tested @eppinglen ||
 
 ## Thermo, Orbitrap Velos
 WF | Test data with location on N: | Conversion v2.1 | Conversion KNIME | Conversion Galaxy
@@ -35,9 +35,10 @@ WF | Test data with location on N: | Conversion v2.1 | Conversion KNIME | Conver
 :-- | :--: | :--: | :--: | :--:
 LabelFree_QExactive_20151015 |N:\UK\UK181-209_Urinary_biomarkers_individual_samples_labelfree | tested @eppinglen |tested @eppinglen|
 LabelFreeMultipleFractions_QExactive_20151016  | | WIP @Stortebecker ||
-SILACArg6Lys6Labelling_QExactive_20151126 ||||
+SILACArg6Lys6Labelling_QExactive_20151126 |N:/ST/ST895_908/ST897.mzML|tested @eppinglen|tested @eppinglen (diff:sp|Q9NQP4|PFD4_HUMAN
+ |
 SILAC_Lys4Arg6_Lys8Arg10_QExactive20160627 |||| 
 DoubleDimethylLabelling_QExactive_20150707 ||||
 TripleDimethylLabelling_QExactive_20151115 ||||
 TAILS_QExactive_20160609 ||||
-TAILS_triple_QExactive_20161127 ||||
+TAILS_triple_QExactive_20161127 ||tested @eppinglen ||
