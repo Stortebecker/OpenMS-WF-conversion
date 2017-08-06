@@ -39,5 +39,5 @@ SILACArg6Lys6Labelling_QExactive_20151126 |N:/ST/ST895_908/ST897.mzML|tested @ep
 SILAC_Lys4Arg6_Lys8Arg10_QExactive20160627 |N:\UK\UK1_10_NMuMG_EMT_cathepsins_proteome_comparison_1\|||
 DoubleDimethylLabelling_QExactive_20150707 |D:\data\Victor_Oginga\mass spec\data\analysis_Lars\results_precursor_correction\AGA116.mzML|tested @eppinglen|tested @eppinglen|
 TripleDimethylLabelling_QExactive_20151115 |N:\CC\CC193-196\ D:\data\proteome-databases-OpenMS\uniprot-human-Nov26-2013-reference-reviewed-canonical-without-isoforms-plus-shuffled.fasta|tested @eppinglen|tested @eppinglen (diff: sp P25788 PSA3 HUMAN)||
-TAILS_QExactive_20160609 |N:\WL\WL383_388\|tested @eppinglen||
-TAILS_triple_QExactive_20161127 |N:\BM\BM2313_2324-necroptosis_uli-maurer_human-cells\|tested @eppinglen ||
+TAILS_QExactive_20160609 |N:\WL\WL383_388\ |tested @eppinglen||
+TAILS_triple_QExactive_20161127 |N:\BM\BM2313_2324-necroptosis_uli-maurer_human-cells\ |tested @eppinglen ||
